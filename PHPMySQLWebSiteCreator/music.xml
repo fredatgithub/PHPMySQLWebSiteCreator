@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<TreeView>
+ 	<node text="Songs" imageindex="-1">
+ 		<node text="SongID" imageindex="-1">
+ 		<node text="name" imageindex="-1" />
+ 		<node text="Title" imageindex="-1" />
+ 		<node text="Lyrics" imageindex="-1" />
+ 	</node>
+ 		<node text="Artist" imageindex="-1">
+		<node text="ArtistID" imageindex="-1" />
+		<node text="ArtistName" imageindex="-1" />
+	</node>
+	<node text="Album" imageindex="-1">
+		<node text="AlbumID" imageindex="-1" />
+ 		<node text="AlbumName" imageindex="-1" />
+ 		<node text="AlbumDate" imageindex="-1" />
+ 	</node>
+ 	</node>
+ </TreeView>

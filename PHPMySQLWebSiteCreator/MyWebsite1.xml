@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="us-ascii"?>
+	<TreeView>
+		<node text="new database" imageindex="-1">
+			<node text="Table" imageindex="-1" />
+			<node text="Table" imageindex="-1" /><node text="Table" imageindex="-1"><node text="Field" imageindex="-1" /><node text="Field" imageindex="-1" /><node text="Field" imageindex="-1" /><node text="Field" imageindex="-1" /></node><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1"><node text="Field" imageindex="-1" /><node text="Field" imageindex="-1" /><node text="Field" imageindex="-1" /></node><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /><node text="Table" imageindex="-1" /></node></TreeView>
